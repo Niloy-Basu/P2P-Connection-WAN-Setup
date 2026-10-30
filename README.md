@@ -1,11 +1,11 @@
 # P2P-Connection-WAN-Setup
-Project Statement: P2P Connection WAN Setup.
+### Project Statement: P2P Connection WAN Setup.
 Overview: This project designed to build a basic Wide Area Network(WAN) by connecting four different network with two different router which is connected by P2P connection using Cisco Packet Tracer. The primary goal is to gain hands on experience in subnating , manually configuring static IP addressing and ensuring reliable PC communication within different network.
 Objectives:
-+Network Desing: Establish a simple WAN topology where all four Network are directly connected to using P2P connection within two routers.
-+IP Configuration: 192.168.10.0/24 is the assigning IP address. Subnet this IP address into five  different IP address for the four different network and two routers.  Manually assign unique static IP addresses and appropriate subnet masks to each PC, ensuring they belong to the same network segment.
-+Connectivity Verification: Conduct thorough testing using tools such as the ping command to confirm that each PC can successfully communicate with every other PC on the network and also the different network.
-+Troubleshooting: Identify and resolve any connectivity issues that may arise during the setup process.
++ Network Desing: Establish a simple WAN topology where all four Network are directly connected to using P2P connection within two routers.
++ IP Configuration: 192.168.10.0/24 is the assigning IP address. Subnet this IP address into five  different IP address for the four different network and two routers.  Manually assign unique static IP addresses and appropriate subnet masks to each PC, ensuring they belong to the same network segment.
++ Connectivity Verification: Conduct thorough testing using tools such as the ping command to confirm that each PC can successfully communicate with every other PC on the network and also the different network.
++ Troubleshooting: Identify and resolve any connectivity issues that may arise during the setup process.
 Scope: Physical and Logical Setup: Create the network using a P2P connection   to interconnect the four network , ensuring that the physical layout and logical addressing scheme are well-documented. Device Configuration: Manually configure network settings on each PC, including IP addresses, subnet masks, and any other necessary parameters. Testing and Validation: Perform connectivity tests across all PCs to verify the integrity and reliability of the network.
 Timeline: This project is expected to be completed within one day, including network setup, configuration, testing, and documentation.
 Expected Outcomes: Successful establishment of a WAN where all PCs communicate seamlessly with one another. Practical understanding of Subnating , static IP addressing and the importance of proper network configuration. Development of troubleshooting skills through the identification and resolution of connectivity issues.
