@@ -8,7 +8,9 @@ This project designed to build a basic Wide Area Network(WAN) by connecting four
 + Connectivity Verification: Conduct thorough testing using tools such as the ping command to confirm that each PC can successfully communicate with every other PC on the network and also the different network.
 + Troubleshooting: Identify and resolve any connectivity issues that may arise during the setup process. 
 ### Scope:
-Physical and Logical Setup: Create the network using a P2P connection   to interconnect the four network , ensuring that the physical layout and logical addressing scheme are well-documented. Device Configuration: Manually configure network settings on each PC, including IP addresses, subnet masks, and any other necessary parameters. Testing and Validation: Perform connectivity tests across all PCs to verify the integrity and reliability of the network.
++ Physical and Logical Setup: Create the network using a P2P connection   to interconnect the four network , ensuring that the physical layout and logical addressing scheme are well-documented.
++ Device Configuration: Manually configure network settings on each PC, including IP addresses, subnet masks, and any other necessary parameters.
++ Testing and Validation: Perform connectivity tests across all PCs to verify the integrity and reliability of the network.
 ### Timeline: 
 This project is expected to be completed within one day, including network setup, configuration, testing, and documentation.
 ### Expected Outcomes: 
